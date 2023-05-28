@@ -9,3 +9,4 @@ graphviz
 catboost
 tqdm
 xgboost
+brew
